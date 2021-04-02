@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\Users\John\Documents\GitHub\onlyplanes\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -34,7 +34,7 @@
       <recent name="C:\Users\John\Documents\GitHub\onlyplanes\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -70,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617348932276</updated>
-      <workItem from="1617348933327" duration="1270000" />
+      <workItem from="1617348933327" duration="1557000" />
+      <workItem from="1617350533059" duration="1578000" />
+      <workItem from="1617352337996" duration="343000" />
     </task>
     <servers />
   </component>
@@ -78,26 +80,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2310" height="635" key="GridCell.Tab.0.bottom" timestamp="1617349656124">
+    <state width="2310" height="635" key="GridCell.Tab.0.bottom" timestamp="1617350369885">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1617349656124" />
-    <state width="2310" height="635" key="GridCell.Tab.0.center" timestamp="1617349656124">
+    <state width="2310" height="635" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1617350369885" />
+    <state width="2310" height="635" key="GridCell.Tab.0.center" timestamp="1617350369885">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1617349656124" />
-    <state width="2310" height="635" key="GridCell.Tab.0.left" timestamp="1617349656124">
+    <state width="2310" height="635" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1617350369885" />
+    <state width="2310" height="635" key="GridCell.Tab.0.left" timestamp="1617350369885">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1617349656124" />
-    <state width="2310" height="635" key="GridCell.Tab.0.right" timestamp="1617349656124">
+    <state width="2310" height="635" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1617350369885" />
+    <state width="2310" height="635" key="GridCell.Tab.0.right" timestamp="1617350369885">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1617349656124" />
-    <state x="881" y="796" width="585" height="592" key="find.popup" timestamp="1617349535925">
+    <state width="2310" height="635" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1617350369885" />
+    <state x="880" y="796" width="585" height="592" key="find.popup" timestamp="1617350865445">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="881" y="796" width="585" height="592" key="find.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1617349535925" />
+    <state x="880" y="796" width="585" height="592" key="find.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1617350865445" />
     <state x="830" y="514" key="run.anything.popup" timestamp="1617349305746">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>

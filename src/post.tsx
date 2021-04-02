@@ -8,24 +8,26 @@ export interface PostProps {
   imageSrc?: string;
   numLikes: number;
   timePosted: number;
+  children?: React.ReactElement;
 }
 
 export function Post(props: PostProps) {
-  const { message, imageSrc, numLikes, timePosted } = props;
+  const { message, imageSrc, numLikes, timePosted, children } = props;
 
   return (
     <div className="tw-block-parent">
       <div className="timeline-PostList-post">
         <div className="timeline-Post">
           <div className="timeline-Post-brand">
-            <div className="Icon Icon--twitter"></div>
+            <div className="Icon Icon--post"><img src="/profilepic.png" /></div>
           </div>
           <div className="timeline-Post-author">
             <div className="PostAuthor"><a className="PostAuthor-link" href="#channel"> </a><span
               className="PostAuthor-avatar">
-            <div className="Avatar"> </div></span><span className="PostAuthor-name">TwitterDev </span><span
-              className="Icon Icon--verified"> </span><span className="PostAuthor-screenName">@TwitterDev </span></div>
+            <div className="Avatar"> </div></span><span className="PostAuthor-name">6900XT </span><span
+              className="Icon Icon--verified"> </span><span className="PostAuthor-screenName">@6900XT </span></div>
           </div>
+          {children}
           <div className="timeline-Post-image"><img src={imageSrc}/></div>
           <div className="timeline-Post-text">{message}</div>
           <div className="timeline-Post-metadata"><span className="timeline-Post-timestamp">{timePosted}h</span></div>
