@@ -25,11 +25,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\John\Documents\GitHub\onlyplanes\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\John\Documents\GitHub\onlyplanes\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\John\Documents\GitHub\onlyplanes\public" />
     </key>
@@ -75,7 +79,10 @@
       <workItem from="1617352337996" duration="1909000" />
       <workItem from="1617354357387" duration="1911000" />
       <workItem from="1617356295128" duration="1641000" />
-      <workItem from="1617358100227" duration="1017000" />
+      <workItem from="1617358100227" duration="1782000" />
+      <workItem from="1617410289624" duration="322000" />
+      <workItem from="1617410769878" duration="1312000" />
+      <workItem from="1617412113072" duration="995000" />
     </task>
     <servers />
   </component>
@@ -83,34 +90,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="954" y="822" key="FileChooserDialogImpl" timestamp="1617356433523">
+    <state x="954" y="822" key="FileChooserDialogImpl" timestamp="1617410610647">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="954" y="822" key="FileChooserDialogImpl/0.0.3840.2120@0.0.3840.2120" timestamp="1617356433523" />
-    <state width="2310" height="635" key="GridCell.Tab.0.bottom" timestamp="1617357540337">
+    <state x="954" y="822" key="FileChooserDialogImpl/0.0.3840.2120@0.0.3840.2120" timestamp="1617410610647" />
+    <state width="2310" height="635" key="GridCell.Tab.0.bottom" timestamp="1617412604796">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1617357540337" />
-    <state width="2310" height="635" key="GridCell.Tab.0.center" timestamp="1617357540337">
+    <state width="2310" height="635" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1617412604796" />
+    <state width="2310" height="635" key="GridCell.Tab.0.center" timestamp="1617412604796">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1617357540337" />
-    <state width="2310" height="635" key="GridCell.Tab.0.left" timestamp="1617357540337">
+    <state width="2310" height="635" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1617412604796" />
+    <state width="2310" height="635" key="GridCell.Tab.0.left" timestamp="1617412604795">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1617357540337" />
-    <state width="2310" height="635" key="GridCell.Tab.0.right" timestamp="1617357540337">
+    <state width="2310" height="635" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1617412604795" />
+    <state width="2310" height="635" key="GridCell.Tab.0.right" timestamp="1617412604796">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state width="2310" height="635" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1617357540337" />
+    <state width="2310" height="635" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1617412604796" />
     <state x="100" y="107" width="2148" height="1920" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617354706744">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="100" y="107" width="2148" height="1920" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1617354706744" />
-    <state x="880" y="796" width="585" height="592" key="find.popup" timestamp="1617356523864">
+    <state x="880" y="796" width="585" height="592" key="find.popup" timestamp="1617412480357">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="880" y="796" width="585" height="592" key="find.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1617356523864" />
+    <state x="880" y="796" width="585" height="592" key="find.popup/0.0.3840.2120@0.0.3840.2120" timestamp="1617412480357" />
     <state x="830" y="514" key="run.anything.popup" timestamp="1617349305746">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>

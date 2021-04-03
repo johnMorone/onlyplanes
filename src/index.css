@@ -9,12 +9,26 @@ body .App {
   flex-direction: column;
   align-items: center;
 }
+body .App.dark-mode {
+  background: #292F33;
+}
+body .App.dark-mode .tw-block-parent {
+  color: white;
+}
+body .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(500px, 95vw);
+}
 body .header {
   margin-top: 0.5rem;
-  max-width: min(500px, 100vw);
 }
 body .header img {
   width: 100%;
+}
+body .dark-mode-toggle {
+  align-self: flex-end;
 }
 @font-face {
   font-family: 'Roboto';
@@ -32,7 +46,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 .tw-block-parent {
-  width: min(500px, 100vw);
   font: 14px/1.4 Roboto, Helvetica, Arial, Tahoma, sans-serif;
   font-weight: 300;
   color: #292F33;
